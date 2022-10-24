@@ -1,2 +1,1 @@
-# nikitabarashkov-JSFE2022Q3
-Private repository for @nikitabarashkov
+deploy page link: https://nikitabarashkov.github.io/online-zoo1/pages/Landing/index_landing.html
